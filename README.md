@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @debs-ade
-- 👀 I’m interested in everything Software engineering
+- 👀 I’m interested in everything Software engineering 
 - 🌱 I’m currently learning html css and js
+- Hey, rn im into Cloud Computing 
 
 
 
